@@ -1,9 +1,8 @@
-﻿using System.Text;
+﻿#nullable disable
+using System.Text;
 using RabbitMQ.Client;
 using System.Net.Mail;
 using RabbitMQ.Client.Events;
-
-using Subscriber.Email;
 
 var factory = new ConnectionFactory
 {
@@ -22,7 +21,20 @@ consumer.Received += (model, eventArgs) =>
     var body = eventArgs.Body.ToArray();
     var message = Encoding.UTF8.GetString(body);
 
-    Console.WriteLine($"Message received: {message}"); 
+    Console.WriteLine($"Message received: {message}");
+
+    Response response = Newtonsoft.Json.JsonConvert.DeserializeObject<Response>(message);
+
+    Console.WriteLine($"Response type: {response.Type}");
+    Console.WriteLine($"Response message: {response.Message}");
+
+    if (response.Type == "EmailMessage") {
+        SendEmailMessage(response.Message);
+    } else if (response.Type == "SmsMessage") {
+        SendSmsMessage(response.Message);
+    } else if (response.Type == "LocalMessage") {
+        SendLocalMessage(response.Message);
+    }
 };
 
 channel.BasicConsume(queue: "orders", autoAck: true, consumer: consumer);
@@ -30,7 +42,7 @@ channel.BasicConsume(queue: "orders", autoAck: true, consumer: consumer);
 Console.ReadKey();
 
 
-void SendMessage(EmailMessage m)
+void SendEmailMessage(Message m)
 {
     MailMessage message = new MailMessage(m.From, m.To);
 
@@ -42,8 +54,19 @@ void SendMessage(EmailMessage m)
 
     try
     {
-        client.Send(message);
+        Console.WriteLine("Sending email message: From: \"{0}\", to: \"{1}\", subject: \"{2}\", body: \"{3}\"", m.From, m.To, m.Title, m.Body);
+        //client.Send(message);
     } catch (Exception ex) {
         Console.WriteLine("Exception caught during email sending(): {0}", ex.ToString());
     }
+}
+
+void SendSmsMessage(Message m)
+{
+    Console.WriteLine("Sending sms message: From: \"{0}\", to: \"{1}\", body: \"{2}\"", m.From, m.To, m.Body);
+}
+
+void SendLocalMessage(Message m)
+{
+    Console.WriteLine("Sending local message: \"{0}\"", m.Body);
 }

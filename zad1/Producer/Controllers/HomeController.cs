@@ -1,4 +1,4 @@
-using Producer.Email;
+using Producer.Message;
 using Producer.RabbitMQ;
 using Microsoft.AspNetCore.Mvc;
 
@@ -18,7 +18,7 @@ public class HomeController : ControllerBase
     [HttpGet]
     public ActionResult Get()
     {
-        EmailMessage email = new()
+        MessageObj email = new()
             {
                 From = "example@example.com",
                 To = "example2@example2.com",
@@ -27,7 +27,31 @@ public class HomeController : ControllerBase
             };
 
         try {
-            _messagePublisher.SendMessage(email);
+            _messagePublisher.SendMessage(new {Type="EmailMessage", Message=email});
+        } catch (Exception e) {
+            return Ok(new { status = "error", message = e.ToString() });
+        }
+
+        MessageObj sms = new()
+            {
+                From = "123456789",
+                To = "987654321",
+                Body = "Body",
+            };
+
+        try {
+            _messagePublisher.SendMessage(new {Type="SmsMessage", Message=sms});
+        } catch (Exception e) {
+            return Ok(new { status = "error", message = e.ToString() });
+        }
+
+        MessageObj local = new()
+            {
+                Body = "Body",
+            };
+
+        try {
+            _messagePublisher.SendMessage(new {Type="LocalMessage", Message=local});
         } catch (Exception e) {
             return Ok(new { status = "error", message = e.ToString() });
         }
