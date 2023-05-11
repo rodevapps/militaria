@@ -1,0 +1,19 @@
+﻿@using Gus.Controllers;
+@model List<DataObject>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@(Html.Grid(Model).Build(columns =>
+{
+    columns.Add(model => model.Id).Titled("Id");
+    columns.Add(model => model.Name).Titled("Name");
+    columns.Add(model => model.IdParent).Titled("Id Parent");
+    columns.Add(model => model.IdLevel).Titled("Id Level");
+    columns.Add(model => model.LevelName).Titled("Level Name");
+    columns.Add(model => model.Variable).Titled("Variable");
+}).Using(GridFilterMode.Header).Empty("No data found").Filterable().Sortable().Pageable(pager =>
+    {
+        pager.RowsPerPage = 10;
+    })
+)

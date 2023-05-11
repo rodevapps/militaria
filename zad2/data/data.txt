@@ -1,0 +1,1871 @@
+[
+  {
+    "id": 1,
+    "nazwa": "Ceny",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 4,
+    "nazwa": "Budownictwo",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 29,
+    "nazwa": "Finanse publiczne",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 32,
+    "nazwa": "Gospodarka morska i śródlądowa",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 36,
+    "nazwa": "Gospodarka paliwowo-energetyczna",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 41,
+    "nazwa": "Rynek wewnętrzny",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 45,
+    "nazwa": "Wymiana międzynarodowa",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 60,
+    "nazwa": "Koniunktura",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 80,
+    "nazwa": "Nauka i technika",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 100,
+    "nazwa": "Przemysł",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": true
+  },
+  {
+    "id": 101,
+    "nazwa": "Przedsiębiorstwa niefinansowe",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 115,
+    "nazwa": "Rachunki narodowe i regionalne",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 125,
+    "nazwa": "Rolnictwo",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 142,
+    "nazwa": "Gospodarka cyfrowa i telekomunikacja",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 152,
+    "nazwa": "Poczta",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 155,
+    "nazwa": "Transport",
+    "id-nadrzedny-element": 727,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 14,
+    "nazwa": "Demografia",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 20,
+    "nazwa": "Edukacja",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 37,
+    "nazwa": "Gospodarka społeczna",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 52,
+    "nazwa": "Gospodarka mieszkaniowa i infrastruktura komunalna",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 71,
+    "nazwa": "Kultura",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 92,
+    "nazwa": "Pomoc społeczna i świadczenia społeczne",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 133,
+    "nazwa": "Rynek pracy",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 160,
+    "nazwa": "Turystyka, sport i wypoczynek",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 167,
+    "nazwa": "Warunki życia ludności",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 171,
+    "nazwa": "Wymiar sprawiedliwości",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 186,
+    "nazwa": "Zdrowie i ochrona zdrowia",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 349,
+    "nazwa": "Rodzina",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 350,
+    "nazwa": "Wynagrodzenia, koszty pracy",
+    "id-nadrzedny-element": 728,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 143,
+    "nazwa": "Stan i ochrona środowiska",
+    "id-nadrzedny-element": 729,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 145,
+    "nazwa": "Leśnictwo i łowiectwo",
+    "id-nadrzedny-element": 729,
+    "id-poziom": 1,
+    "nazwa-poziom": "Dziedzina",
+    "czy-zmienne": false
+  },
+  {
+    "id": 2,
+    "nazwa": "Ceny producentów",
+    "id-nadrzedny-element": 1,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 7,
+    "nazwa": "Wskaźniki cen podstawowych kategorii makroekonomicznych",
+    "id-nadrzedny-element": 1,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 8,
+    "nazwa": "Ceny detaliczne",
+    "id-nadrzedny-element": 1,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 12,
+    "nazwa": "Ceny nieruchomości",
+    "id-nadrzedny-element": 1,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 13,
+    "nazwa": "Ceny w handlu zagranicznym",
+    "id-nadrzedny-element": 1,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 5,
+    "nazwa": "Budownictwo mieszkaniowe i niemieszkaniowe",
+    "id-nadrzedny-element": 4,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 6,
+    "nazwa": "Produkcja budowlana",
+    "id-nadrzedny-element": 4,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 15,
+    "nazwa": "Ludność i współczynniki demograficzne",
+    "id-nadrzedny-element": 14,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 16,
+    "nazwa": "Urodzenia i zgony",
+    "id-nadrzedny-element": 14,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 17,
+    "nazwa": "Migracje ludności",
+    "id-nadrzedny-element": 14,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 18,
+    "nazwa": "Trwanie życia i trwanie życia w zdrowiu",
+    "id-nadrzedny-element": 14,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 19,
+    "nazwa": "Prognoza ludności",
+    "id-nadrzedny-element": 14,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 229,
+    "nazwa": "Małżeństwa, rozwody, separacje",
+    "id-nadrzedny-element": 14,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 23,
+    "nazwa": "Szkolnictwo wyższe",
+    "id-nadrzedny-element": 20,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 352,
+    "nazwa": "Oświata i wychowanie",
+    "id-nadrzedny-element": 20,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 30,
+    "nazwa": "Budżet państwa",
+    "id-nadrzedny-element": 29,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 31,
+    "nazwa": "Budżety Jednostek Samorządu Terytorialnego",
+    "id-nadrzedny-element": 29,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 33,
+    "nazwa": "Porty morskie, żegluga morska i przybrzeżna",
+    "id-nadrzedny-element": 32,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 34,
+    "nazwa": "Przemysł stoczniowy",
+    "id-nadrzedny-element": 32,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 35,
+    "nazwa": "Ratownictwo morskie",
+    "id-nadrzedny-element": 32,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 202,
+    "nazwa": "Rybołówstwo",
+    "id-nadrzedny-element": 32,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 341,
+    "nazwa": "Żegluga śródlądowa",
+    "id-nadrzedny-element": 32,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 342,
+    "nazwa": "Zatrudnienie i wyniki finansowe w gospodarce morskiej",
+    "id-nadrzedny-element": 32,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 347,
+    "nazwa": "Bilanse nośników energii",
+    "id-nadrzedny-element": 36,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 348,
+    "nazwa": "Bilanse przemiany energii",
+    "id-nadrzedny-element": 36,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 38,
+    "nazwa": "Reintegracja społeczno-zawodowa",
+    "id-nadrzedny-element": 37,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 39,
+    "nazwa": "Sektor non-profit",
+    "id-nadrzedny-element": 37,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 40,
+    "nazwa": "Stowarzyszenia mniejszości narodowych i etnicznych oraz cudzoziemców",
+    "id-nadrzedny-element": 37,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 42,
+    "nazwa": "Handel wewnętrzny",
+    "id-nadrzedny-element": 41,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 48,
+    "nazwa": "Usługi",
+    "id-nadrzedny-element": 41,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 46,
+    "nazwa": "Obroty towarowe",
+    "id-nadrzedny-element": 45,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 47,
+    "nazwa": "Obroty usługowe",
+    "id-nadrzedny-element": 45,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 53,
+    "nazwa": "Mieszkania",
+    "id-nadrzedny-element": 52,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 54,
+    "nazwa": "Energia elektryczna",
+    "id-nadrzedny-element": 52,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 56,
+    "nazwa": "Wodociągi",
+    "id-nadrzedny-element": 52,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 57,
+    "nazwa": "Kanalizacja",
+    "id-nadrzedny-element": 52,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 58,
+    "nazwa": "Sieć gazowa",
+    "id-nadrzedny-element": 52,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 59,
+    "nazwa": "Nieczystości ciekłe",
+    "id-nadrzedny-element": 52,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 339,
+    "nazwa": "Gospodarka odpadami komunalnymi",
+    "id-nadrzedny-element": 52,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 61,
+    "nazwa": "Koniunktura gospodarcza",
+    "id-nadrzedny-element": 60,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 69,
+    "nazwa": "Koniunktura konsumencka",
+    "id-nadrzedny-element": 60,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 72,
+    "nazwa": "Biblioteki",
+    "id-nadrzedny-element": 71,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 73,
+    "nazwa": "Działalność wydawnicza",
+    "id-nadrzedny-element": 71,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 74,
+    "nazwa": "Wystawiennictwo",
+    "id-nadrzedny-element": 71,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 75,
+    "nazwa": "Działalność centrów, domów i ośrodków kultury, klubów i świetlic",
+    "id-nadrzedny-element": 71,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 76,
+    "nazwa": "Działalność sceniczna",
+    "id-nadrzedny-element": 71,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 77,
+    "nazwa": "Kinematografia",
+    "id-nadrzedny-element": 71,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 78,
+    "nazwa": "Radiofonia i telewizja",
+    "id-nadrzedny-element": 71,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 79,
+    "nazwa": "Imprezy masowe",
+    "id-nadrzedny-element": 71,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 81,
+    "nazwa": "Działalność badawcza i rozwojowa (B+R)",
+    "id-nadrzedny-element": 80,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 82,
+    "nazwa": "Działalność innowacyjna",
+    "id-nadrzedny-element": 80,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 83,
+    "nazwa": "Ochrona własności przemysłowej",
+    "id-nadrzedny-element": 80,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 84,
+    "nazwa": "Biotechnologia w przedsiębiorstwach",
+    "id-nadrzedny-element": 80,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 207,
+    "nazwa": "Naukowcy i stopnie naukowe",
+    "id-nadrzedny-element": 80,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 208,
+    "nazwa": "Archiwa państwowe",
+    "id-nadrzedny-element": 80,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 210,
+    "nazwa": "Nanotechnologia w przedsiębiorstwach",
+    "id-nadrzedny-element": 80,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 97,
+    "nazwa": "Placówki stacjonarne pomocy społecznej",
+    "id-nadrzedny-element": 92,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 99,
+    "nazwa": "Świadczenia społeczne",
+    "id-nadrzedny-element": 92,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 218,
+    "nazwa": "Beneficjenci środowiskowej pomocy społecznej",
+    "id-nadrzedny-element": 92,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 354,
+    "nazwa": "Bieżące wyniki finansowe",
+    "id-nadrzedny-element": 101,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 357,
+    "nazwa": "Roczne wyniki finansowe",
+    "id-nadrzedny-element": 101,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 360,
+    "nazwa": "Działalność przedsiębiorstw z kapitałem zagranicznym",
+    "id-nadrzedny-element": 101,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 116,
+    "nazwa": "Rachunki narodowe",
+    "id-nadrzedny-element": 115,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 124,
+    "nazwa": "Rachunki regionalne",
+    "id-nadrzedny-element": 115,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 126,
+    "nazwa": "Gospodarstwa rolne",
+    "id-nadrzedny-element": 125,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 128,
+    "nazwa": "Produkcja upraw rolnych i ogrodniczych",
+    "id-nadrzedny-element": 125,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 130,
+    "nazwa": "Produkcja zwierzęca",
+    "id-nadrzedny-element": 125,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 131,
+    "nazwa": "Skup produktów rolnych",
+    "id-nadrzedny-element": 125,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 132,
+    "nazwa": "Środki produkcji w rolnictwie",
+    "id-nadrzedny-element": 125,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 340,
+    "nazwa": "Rachunki ekonomiczne rolnictwa",
+    "id-nadrzedny-element": 125,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 134,
+    "nazwa": "Aktywność ekonomiczna ludności wg BAEL",
+    "id-nadrzedny-element": 133,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 135,
+    "nazwa": "Bezrobotni zarejestrowani",
+    "id-nadrzedny-element": 133,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 136,
+    "nazwa": "Ruch zatrudnionych",
+    "id-nadrzedny-element": 133,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 140,
+    "nazwa": "Warunki pracy",
+    "id-nadrzedny-element": 133,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 141,
+    "nazwa": "Strajki",
+    "id-nadrzedny-element": 133,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 203,
+    "nazwa": "Wypadki przy pracy",
+    "id-nadrzedny-element": 133,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 226,
+    "nazwa": "Pracujący",
+    "id-nadrzedny-element": 133,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 154,
+    "nazwa": "Telekomunikacja",
+    "id-nadrzedny-element": 142,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 204,
+    "nazwa": "Przedsiębiorstwa",
+    "id-nadrzedny-element": 142,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 205,
+    "nazwa": "Gospodarstwa domowe",
+    "id-nadrzedny-element": 142,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 206,
+    "nazwa": "Osoby indywidualne",
+    "id-nadrzedny-element": 142,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 306,
+    "nazwa": "Działalność gospodarcza w telekomunikacji i poczcie",
+    "id-nadrzedny-element": 142,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 146,
+    "nazwa": "Ochrona przyrody",
+    "id-nadrzedny-element": 143,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 148,
+    "nazwa": "Gospodarka odpadami",
+    "id-nadrzedny-element": 143,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 149,
+    "nazwa": "Zanieczyszczenie powietrza",
+    "id-nadrzedny-element": 143,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 151,
+    "nazwa": "Ekonomiczne aspekty ochrony środowiska",
+    "id-nadrzedny-element": 143,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 209,
+    "nazwa": "Tereny zieleni",
+    "id-nadrzedny-element": 143,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 228,
+    "nazwa": "Gospodarka wodno-ściekowa",
+    "id-nadrzedny-element": 143,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 221,
+    "nazwa": "Zasoby leśne",
+    "id-nadrzedny-element": 145,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 222,
+    "nazwa": "Hodowla lasu",
+    "id-nadrzedny-element": 145,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 223,
+    "nazwa": "Gospodarcze wykorzystanie lasu",
+    "id-nadrzedny-element": 145,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 224,
+    "nazwa": "Zadrzewienia",
+    "id-nadrzedny-element": 145,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 225,
+    "nazwa": "Zagrożenie i ochrona środowiska leśnego",
+    "id-nadrzedny-element": 145,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 310,
+    "nazwa": "Infrastruktura pocztowa",
+    "id-nadrzedny-element": 152,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 311,
+    "nazwa": "Usługi pocztowe",
+    "id-nadrzedny-element": 152,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 156,
+    "nazwa": "Infrastruktura transportowa",
+    "id-nadrzedny-element": 155,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 157,
+    "nazwa": "Tabor i flota transportowa",
+    "id-nadrzedny-element": 155,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 158,
+    "nazwa": "Przewozy i przeładunki",
+    "id-nadrzedny-element": 155,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 159,
+    "nazwa": "Bezpieczeństwo w transporcie",
+    "id-nadrzedny-element": 155,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 338,
+    "nazwa": "Działalność gospodarcza w transporcie",
+    "id-nadrzedny-element": 155,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 353,
+    "nazwa": "Transport intermodalny",
+    "id-nadrzedny-element": 155,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 161,
+    "nazwa": "Turystyka",
+    "id-nadrzedny-element": 160,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 165,
+    "nazwa": "Sport",
+    "id-nadrzedny-element": 160,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 166,
+    "nazwa": "Ruch graniczny",
+    "id-nadrzedny-element": 160,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 168,
+    "nazwa": "Badanie Budżetów Gospodarstw Domowych (BDG)",
+    "id-nadrzedny-element": 167,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 169,
+    "nazwa": "Europejskie Badanie Dochodów i Warunków Życia Ludności (EU-SILC)",
+    "id-nadrzedny-element": 167,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 170,
+    "nazwa": "Ubóstwo",
+    "id-nadrzedny-element": 167,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 172,
+    "nazwa": "Przestępczość",
+    "id-nadrzedny-element": 171,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 173,
+    "nazwa": "Prokuratura",
+    "id-nadrzedny-element": 171,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 174,
+    "nazwa": "Sprawy nieletnich",
+    "id-nadrzedny-element": 171,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 175,
+    "nazwa": "Działalność notarialna i komornicza",
+    "id-nadrzedny-element": 171,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 177,
+    "nazwa": "Więziennictwo",
+    "id-nadrzedny-element": 171,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 180,
+    "nazwa": "Sądownictwo",
+    "id-nadrzedny-element": 171,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 187,
+    "nazwa": "Opieka zdrowotna",
+    "id-nadrzedny-element": 186,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 197,
+    "nazwa": "Stan zdrowia",
+    "id-nadrzedny-element": 186,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 93,
+    "nazwa": "Opieka nad dziećmi do 3 lat",
+    "id-nadrzedny-element": 349,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 94,
+    "nazwa": "Wspieranie rodziny",
+    "id-nadrzedny-element": 349,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 98,
+    "nazwa": "Świadczenia w ramach Programu \"Rodzina 500 +\"",
+    "id-nadrzedny-element": 349,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 333,
+    "nazwa": "Świadczenia rodzinne i alimentacyjne",
+    "id-nadrzedny-element": 349,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 335,
+    "nazwa": "Piecza zastępcza",
+    "id-nadrzedny-element": 349,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 139,
+    "nazwa": "Koszty pracy",
+    "id-nadrzedny-element": 350,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 227,
+    "nazwa": "Wynagrodzenia",
+    "id-nadrzedny-element": 350,
+    "id-poziom": 2,
+    "nazwa-poziom": "Zakres informacyjny",
+    "czy-zmienne": true
+  },
+  {
+    "id": 3,
+    "nazwa": "Ceny w przemyśle",
+    "id-nadrzedny-element": 2,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 9,
+    "nazwa": "Ceny w budownictwie",
+    "id-nadrzedny-element": 2,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 10,
+    "nazwa": "Ceny w rolnictwie",
+    "id-nadrzedny-element": 2,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 11,
+    "nazwa": "Ceny usług",
+    "id-nadrzedny-element": 2,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 43,
+    "nazwa": "Sprzedaż detaliczna i hurtowa",
+    "id-nadrzedny-element": 42,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 44,
+    "nazwa": "Infrastruktura handlowa",
+    "id-nadrzedny-element": 42,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 49,
+    "nazwa": "Działalność gastronomiczna",
+    "id-nadrzedny-element": 48,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 50,
+    "nazwa": "Usługi biznesowe",
+    "id-nadrzedny-element": 48,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 62,
+    "nazwa": "Wskaźniki syntetyczne (SI)",
+    "id-nadrzedny-element": 61,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 63,
+    "nazwa": "Wskaźniki ogólnego klimatu koniunktury",
+    "id-nadrzedny-element": 61,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 64,
+    "nazwa": "Subiektywne oceny bieżącej sytuacji",
+    "id-nadrzedny-element": 61,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 65,
+    "nazwa": "Subiektywne prognozy sytuacji gospodarczej",
+    "id-nadrzedny-element": 61,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 66,
+    "nazwa": "Bariery działalności",
+    "id-nadrzedny-element": 61,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 68,
+    "nazwa": "Oceny dotyczące inwestycji",
+    "id-nadrzedny-element": 61,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 214,
+    "nazwa": "Nakłady na działalność B+R",
+    "id-nadrzedny-element": 81,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 215,
+    "nazwa": "Podmioty B+R",
+    "id-nadrzedny-element": 81,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 216,
+    "nazwa": "Personel B+R",
+    "id-nadrzedny-element": 81,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 217,
+    "nazwa": "Aparatura naukowo-badawcza",
+    "id-nadrzedny-element": 81,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 312,
+    "nazwa": "Innowacje w przedsiębiorstwach",
+    "id-nadrzedny-element": 82,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 313,
+    "nazwa": "Ekonomiczne aspekty działalności innowacyjnej",
+    "id-nadrzedny-element": 82,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 314,
+    "nazwa": "Współpraca w działalności innowacyjnej",
+    "id-nadrzedny-element": 82,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 211,
+    "nazwa": "Wynalazki",
+    "id-nadrzedny-element": 83,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 212,
+    "nazwa": "Patenty",
+    "id-nadrzedny-element": 83,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 213,
+    "nazwa": "Wzory użytkowe",
+    "id-nadrzedny-element": 83,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 332,
+    "nazwa": "Świadczenia emerytalno-rentowe",
+    "id-nadrzedny-element": 99,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 334,
+    "nazwa": "Świadczenia pomocy społecznej",
+    "id-nadrzedny-element": 99,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 119,
+    "nazwa": "Rachunek kapitałowy",
+    "id-nadrzedny-element": 116,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 120,
+    "nazwa": "Rachunek podziału pierwotnego dochodów",
+    "id-nadrzedny-element": 116,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 121,
+    "nazwa": "Rachunek podziału wtórnego dochodów",
+    "id-nadrzedny-element": 116,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 122,
+    "nazwa": "Rachunek wykorzystania dochodów do dyspozycji",
+    "id-nadrzedny-element": 116,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 361,
+    "nazwa": "Rachunek produkcji",
+    "id-nadrzedny-element": 116,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 362,
+    "nazwa": "Rachunek tworzenia dochodów",
+    "id-nadrzedny-element": 116,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 363,
+    "nazwa": "Statystyka sektora instytucji rządowych i samorządowych",
+    "id-nadrzedny-element": 116,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 364,
+    "nazwa": "Eksport/Import według ESA2010",
+    "id-nadrzedny-element": 116,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 343,
+    "nazwa": "Maszyny i urządzenia rolnicze",
+    "id-nadrzedny-element": 132,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 344,
+    "nazwa": "Nawozy",
+    "id-nadrzedny-element": 132,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 345,
+    "nazwa": "Środki ochrony roślin",
+    "id-nadrzedny-element": 132,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 346,
+    "nazwa": "Pasze",
+    "id-nadrzedny-element": 132,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 307,
+    "nazwa": "Telefonia stacjonarna",
+    "id-nadrzedny-element": 154,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 308,
+    "nazwa": "Telefonia ruchoma",
+    "id-nadrzedny-element": 154,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 309,
+    "nazwa": "Internet, radiofonia i telewizja",
+    "id-nadrzedny-element": 154,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 336,
+    "nazwa": "Pasażerowie",
+    "id-nadrzedny-element": 158,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 337,
+    "nazwa": "Ładunki",
+    "id-nadrzedny-element": 158,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 162,
+    "nazwa": "Turystyczna baza noclegowa",
+    "id-nadrzedny-element": 161,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 163,
+    "nazwa": "Działalność Polskiego Towarzystwa Turystyczno-Krajoznawczego (PTTK)",
+    "id-nadrzedny-element": 161,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 164,
+    "nazwa": "Ratownictwo górskie",
+    "id-nadrzedny-element": 161,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 219,
+    "nazwa": "Organizacje kultury fizycznej i kluby sportowe",
+    "id-nadrzedny-element": 165,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 220,
+    "nazwa": "Igrzyska i mistrzostwa",
+    "id-nadrzedny-element": 165,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 302,
+    "nazwa": "Subiektywna ocena gospodarstwa domowego",
+    "id-nadrzedny-element": 168,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 303,
+    "nazwa": "Warunki mieszkaniowe",
+    "id-nadrzedny-element": 168,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 304,
+    "nazwa": "Dochody i wydatki",
+    "id-nadrzedny-element": 168,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 305,
+    "nazwa": "Spożycie ilościowe żywności",
+    "id-nadrzedny-element": 168,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 301,
+    "nazwa": "Dochody",
+    "id-nadrzedny-element": 169,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 231,
+    "nazwa": "Skazani",
+    "id-nadrzedny-element": 177,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 181,
+    "nazwa": "Sądownictwo powszechne",
+    "id-nadrzedny-element": 180,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 230,
+    "nazwa": "Sędziowie",
+    "id-nadrzedny-element": 180,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 188,
+    "nazwa": "Ambulatoryjna opieka zdrowotna",
+    "id-nadrzedny-element": 187,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 189,
+    "nazwa": "Stacjonarna opieka zdrowotna",
+    "id-nadrzedny-element": 187,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 190,
+    "nazwa": "Personel medyczny",
+    "id-nadrzedny-element": 187,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 191,
+    "nazwa": "Apteki i punkty apteczne",
+    "id-nadrzedny-element": 187,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 192,
+    "nazwa": "Krwiodawstwo",
+    "id-nadrzedny-element": 187,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 193,
+    "nazwa": "Lecznictwo uzdrowiskowe",
+    "id-nadrzedny-element": 187,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 194,
+    "nazwa": "Medycyna pracy",
+    "id-nadrzedny-element": 187,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 195,
+    "nazwa": "Pomoc doraźna i ratownictwo medyczne",
+    "id-nadrzedny-element": 187,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 196,
+    "nazwa": "Profilaktyka",
+    "id-nadrzedny-element": 187,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 198,
+    "nazwa": "Zachorowania",
+    "id-nadrzedny-element": 197,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 199,
+    "nazwa": "Samopoczucie psychofizyczne osób w wieku 15 lat i więcej",
+    "id-nadrzedny-element": 197,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 200,
+    "nazwa": "Styl życia",
+    "id-nadrzedny-element": 197,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 201,
+    "nazwa": "Niepełnosprawność",
+    "id-nadrzedny-element": 197,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 95,
+    "nazwa": "Rodzinna piecza zastępcza",
+    "id-nadrzedny-element": 335,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 96,
+    "nazwa": "Instytucjonalna piecza zastępcza",
+    "id-nadrzedny-element": 335,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 21,
+    "nazwa": "Placówki edukacyjne i opiekuńczo-wychowawcze",
+    "id-nadrzedny-element": 352,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 22,
+    "nazwa": "Uczestnictwo dzieci, młodzieży i dorosłych w edukacji",
+    "id-nadrzedny-element": 352,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 24,
+    "nazwa": "Nauczyciele",
+    "id-nadrzedny-element": 352,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": false
+  },
+  {
+    "id": 355,
+    "nazwa": "Kwartalne dane o przedsiębiorstwach niefinansowych o liczbie pracujących 50 i więcej osób",
+    "id-nadrzedny-element": 354,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 356,
+    "nazwa": "Półroczne dane o przedsiębiorstwach niefinansowych o liczbie pracujących 10-49 osób",
+    "id-nadrzedny-element": 354,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 358,
+    "nazwa": "Pełna zbiorowość przedsiębiorstw niefinansowych",
+    "id-nadrzedny-element": 357,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 359,
+    "nazwa": "Przedsiębiorstwa niefinansowe o liczbie pracujących 10 i więcej osób",
+    "id-nadrzedny-element": 357,
+    "id-poziom": 3,
+    "nazwa-poziom": "Temat",
+    "czy-zmienne": true
+  },
+  {
+    "id": 727,
+    "nazwa": "Gospodarka",
+    "id-poziom": 19,
+    "nazwa-poziom": "Blok tematyczny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 728,
+    "nazwa": "Społeczeństwo",
+    "id-poziom": 19,
+    "nazwa-poziom": "Blok tematyczny",
+    "czy-zmienne": false
+  },
+  {
+    "id": 729,
+    "nazwa": "Środowisko",
+    "id-poziom": 19,
+    "nazwa-poziom": "Blok tematyczny",
+    "czy-zmienne": false
+  }
+]
