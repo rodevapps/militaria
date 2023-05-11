@@ -2,6 +2,7 @@
 using System.Text;
 using RabbitMQ.Client;
 using System.Net.Mail;
+using System.Text.Json;
 using RabbitMQ.Client.Events;
 
 var factory = new ConnectionFactory
@@ -26,7 +27,7 @@ consumer.Received += (model, eventArgs) =>
     Response response = Newtonsoft.Json.JsonConvert.DeserializeObject<Response>(message);
 
     Console.WriteLine($"Response type: {response.Type}");
-    Console.WriteLine($"Response message: {response.Message}");
+    Console.WriteLine($"Response message: {JsonSerializer.Serialize(response.Message)}");
 
     if (response.Type == "EmailMessage") {
         SendEmailMessage(response.Message);
@@ -54,7 +55,7 @@ void SendEmailMessage(Message m)
 
     try
     {
-        Console.WriteLine("Sending email message: From: \"{0}\", to: \"{1}\", subject: \"{2}\", body: \"{3}\"", m.From, m.To, m.Title, m.Body);
+        Console.WriteLine("Sending email message => From: \"{0}\", to: \"{1}\", subject: \"{2}\", body: \"{3}\"", m.From, m.To, m.Title, m.Body);
         //client.Send(message);
     } catch (Exception ex) {
         Console.WriteLine("Exception caught during email sending(): {0}", ex.ToString());
@@ -63,7 +64,7 @@ void SendEmailMessage(Message m)
 
 void SendSmsMessage(Message m)
 {
-    Console.WriteLine("Sending sms message: From: \"{0}\", to: \"{1}\", body: \"{2}\"", m.From, m.To, m.Body);
+    Console.WriteLine("Sending sms message => From: \"{0}\", to: \"{1}\", body: \"{2}\"", m.From, m.To, m.Body);
 }
 
 void SendLocalMessage(Message m)
